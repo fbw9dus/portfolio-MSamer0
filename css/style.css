@@ -1,0 +1,159 @@
+html {
+    background: gray;
+}
+
+
+.img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.container h1 {
+    text-align: center;
+  
+   
+}
+
+.container p {
+    text-align: center;
+    font-size: 30px;
+       
+       
+}
+
+body { 
+    background-color: gray;
+}
+
+.menu{
+    display: flex;
+    height: 200px;
+    flex-direction: column;
+    padding: 0;
+ }
+
+ .menu>li{
+    color: white;
+    display: flex;
+    border-bottom: 2px solid burlywood;
+    height: 50px;
+    align-items: center;
+    background: black;
+    padding-left: 15px;
+ }
+
+ a{
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+ }
+
+ i{
+    height: 15px;
+    padding: 10px;
+    color: white;
+ }
+
+
+ .ul h2 {
+    padding-top: 30px;
+	padding-bottom: 20px;
+	font-size: 85px;
+	text-align: center;
+	border-bottom: 2px solid black;
+}
+
+.ul h3 {
+	padding-top: 30px;
+	padding-bottom: 10px;
+	font-size: 31px;
+	text-align: center;
+}
+
+.ul p {
+    padding: 10px 10px 10px 80px;
+    font-size: 40px;	
+    text-align: center;
+	text-align: center;
+}
+
+
+.pdf {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    
+}
+
+
+.pdf a {
+   text-decoration: none;
+   font-size: 40px;
+   color: red;
+   justify-content: center;
+}
+
+h2 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 85px;
+    text-align: center;
+    border-bottom: 2px solid black;
+    
+}
+
+
+.p {
+	margin-top: 80px;
+}
+
+.ps .p2 {
+	width: 100%;
+	height: 100%;
+
+}
+
+.p h3 {
+    font-size: 50px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.skills h1 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 85px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.MK h1 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 85px;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.skills ul {
+    color: red;
+    font-size: 40px;
+}
+
+.MK nav {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 40px;
+    background: red;
+    
+}
+
+.menu .fa-chevron-right {
+    margin-bottom: 15px;
+    margin-left: 40px;
+    
+}
